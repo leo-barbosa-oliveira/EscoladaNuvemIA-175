@@ -14,6 +14,15 @@ C = int(input("Digite um número C: "))
 D = int(input("Digite um número D: "))
 
 
-diferenca = A * B - C * D
+diferenca1 = (A * B)
 
-print(f"DIFERENCA = {diferenca}")
+print(f"DIFERENCA = de {A} e { B} é: {diferenca1}")
+
+diferenca2 = (C * D)
+
+print(f"DIFERENCA = de {C} e {D} é: {diferenca2}")
+
+diferenca_real = (diferenca1 - diferenca2)
+
+
+print(f"DIFERENCA REAL É: {diferenca_real}")
