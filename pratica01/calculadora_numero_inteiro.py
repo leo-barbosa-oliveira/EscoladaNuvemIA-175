@@ -14,7 +14,7 @@ C = int(input("Digite um número C: "))
 D = int(input("Digite um número D: "))
 
 
-diferenca1 = (A * B)
+diferenca1 = (A * B - )
 
 print(f"DIFERENCA = de {A} e { B} é: {diferenca1}")
 

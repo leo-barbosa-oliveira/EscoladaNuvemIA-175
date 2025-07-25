@@ -12,4 +12,4 @@ Qtd = 3
 
 valor_total = valor * Qtd
 
-print(f"O valor total do seu produto é {valor_total} e o item é {produto} e o valor unitário é: 12.40")
+print(f"O valor total do seu produto é {valor_total} e o item é {produto} e o valor unitário é: {valor}")
